@@ -1,0 +1,47 @@
+header
+{
+    text-align: right;
+}
+#connexion
+{
+    background-color: #4285f4;
+    color: white;
+    border-style: none;
+}
+
+.boutons
+{
+    color: #5F6368;
+    background-color: #f2f2f2;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 4px;
+    border-color: #f3f3f3;
+}
+
+.centre
+{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+footer
+{
+    background-color: #f2f2f2;
+    color: rgba(0,0,0,.54);
+}
+#pays
+{
+    text-align: left;
+}
+
+#gauche
+{
+    text-align: left;
+}
+
+#droite
+{
+    text-align: right;
+}
